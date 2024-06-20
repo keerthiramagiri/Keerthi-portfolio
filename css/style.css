@@ -393,7 +393,7 @@ div#wthreeskills h3, .wthreeskills h3{
 /* Effect 2 */
  .hovicon.effect-2 {
     color: #fff;
-	box-shadow:0 0 0 3px #07cb79;
+	box-shadow:0 0 0 3px #ebf0ee;
     -webkit-transition: color 0.3s;
     -moz-transition: color 0.3s;
     transition: color 0.3s;
@@ -403,7 +403,7 @@ div#wthreeskills h3, .wthreeskills h3{
     left: -2px;
     padding: 2px;
     z-index: -1;
-    background:#07cb79;
+    background:#070707;
     -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
     -moz-transition: -moz-transform 0.2s, opacity 0.2s;
     transition: transform 0.2s, opacity 0.2s;
